@@ -1,7 +1,7 @@
 
 
 package RamJavaBasicsPrograms;
-import java.util.*12;
+import java.util.*;
 
 public class SumOfAllNaturalNumbers {
     public static void main(String[] args) {
